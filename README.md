@@ -1,4 +1,4 @@
-<img alt="HTML" whith="1920px" src="https://media.discordapp.net/attachments/1198766161467281529/1210262398003576902/image.png?ex=65e9ebb1&is=65d776b1&hm=5c690a9074eb3874d01eacf593ffcc16e8bce96067afe9d7ec441b4337a14001&=&format=webp&quality=lossless&width=1440&height=563"/>
+<img alt="HTML" whith="1920px" src="https://github.com/AgusTheKing/icons/blob/main/iconsbaner.png"/>
 
 Repositorio de Iconos Gratuitos para WEB Elements CSS DAJ
 
@@ -6,4 +6,4 @@ Este repositorio alberga una amplia colección de iconos gratuitos diseñados es
 
 El propósito principal de este repositorio es proporcionar a diseñadores web, desarrolladores y cualquier persona interesada en mejorar la apariencia y funcionalidad de sus sitios web una amplia gama de iconos gratuitos y de alta calidad.
 
-<img alt="HTML" whith="1920px" src="https://cdn.discordapp.com/attachments/1198766161467281529/1210265004729966663/image.png?ex=65e9ee1e&is=65d7791e&hm=77245bafcfa1079877f83cb295661c37d7f4e21083550591527b2903349f18ae&"/>
+<img alt="HTML" whith="1920px" src="https://github.com/AgusTheKing/icons/blob/main/elementscssdajAD.png"/>
